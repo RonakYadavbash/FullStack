@@ -126,3 +126,4 @@ function searchEmployee() {
 
 // Start the system
 showMenu();
+
